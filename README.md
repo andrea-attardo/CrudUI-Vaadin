@@ -1,7 +1,7 @@
 
 # Application that uses a Vaadin-based UI on a Spring Data JPA based backend
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/andrea-attardo/CrudUI-Vaadin/blob/main/vaadinapp.png?raw=true)
 
 From this tutorial: https://spring.io/guides/gs/crud-with-vaadin
 
